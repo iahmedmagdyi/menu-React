@@ -1,0 +1,57 @@
+.color-body {
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+  font-size: 20px;
+}
+.title {
+  color: #224f61;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+
+.img-item {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+}
+.price-item {
+  color: #b45b35;
+  line-height: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  font-family: Almarai;
+}
+.des-item {
+  color: #777;
+}
+.btn1 {
+  font-family: Almarai;
+  border-radius: 5px;
+  color: #777;
+  border: none;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  font-weight: 600;
+}
+.btn1:hover {
+  border-radius: 15px;
+  color: black;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #b45b35;
+}
